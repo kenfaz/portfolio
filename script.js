@@ -91,9 +91,15 @@ window.addEventListener("scroll", () => {
   }
 });
 
-// Wallpaper showcase
+// Showcases
 document
   .getElementById("wallpaper-engine")
   .addEventListener("click", function () {
-    window.location.href = "src/extras/wallpaper_showcases/index.html";
+    window.location.href = "src/extras/wallpaper_showcase/index.html";
+  });
+
+document
+  .getElementById("figma")
+  .addEventListener("click", function () {
+    window.location.href = "src/extras/figma_showcase/index.html";
   });

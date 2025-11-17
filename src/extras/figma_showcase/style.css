@@ -1,0 +1,15 @@
+body {
+  background-color: #1f1b1a;
+}
+
+/* Classes */
+.main-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Jetbrains Mono';
+    color: #ffffff;
+}
