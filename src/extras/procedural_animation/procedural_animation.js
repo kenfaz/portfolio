@@ -108,11 +108,6 @@ function spring_constraint(head, body) {
   distance_text.textContent = Math.floor(distance);
 }
 
-
-
-
-
-
 animate();
 
 
